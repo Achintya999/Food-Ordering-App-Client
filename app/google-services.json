@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "832086745853",
+    "firebase_url": "https://foodorderingapp-de7f7.firebaseio.com",
+    "project_id": "foodorderingapp-de7f7",
+    "storage_bucket": "foodorderingapp-de7f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832086745853:android:bf314e36aaf5423f",
+        "android_client_info": {
+          "package_name": "com.example.achintya.foodorderingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832086745853-3pbqmgmuorjf4ogp1160vj24g0vistug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.achintya.foodorderingapp",
+            "certificate_hash": "136be9b016436885b6131110e189ffbd4052f93d"
+          }
+        },
+        {
+          "client_id": "832086745853-thpnuglg1qvrf3ljq80guvagq3i0ejge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_T71W9WwMOcwXPEDarOWDkdznIc1_SRo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832086745853-thpnuglg1qvrf3ljq80guvagq3i0ejge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832086745853:android:af17d976895a855b",
+        "android_client_info": {
+          "package_name": "com.example.achintya.foodorderingforclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832086745853-mq038pcpl0vtftgm4bk02bmip3k3cvhu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.achintya.foodorderingforclient",
+            "certificate_hash": "136be9b016436885b6131110e189ffbd4052f93d"
+          }
+        },
+        {
+          "client_id": "832086745853-thpnuglg1qvrf3ljq80guvagq3i0ejge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_T71W9WwMOcwXPEDarOWDkdznIc1_SRo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832086745853-thpnuglg1qvrf3ljq80guvagq3i0ejge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
